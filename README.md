@@ -1,4 +1,4 @@
-# Merge Sort Algorithm Implementation in JS
+# Quick Sort Algorithm Implementation in JS
 
 This application is intedend for Junior Developers who are curious about the various implementations of Quick Sort Algorithms in Javascript. Use this as a study guide to familiarize yourself with the Basic, Hoare Partition and Lomuto Partition implementations.
 
